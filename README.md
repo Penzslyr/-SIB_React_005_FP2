@@ -141,30 +141,24 @@ Pada folder src, ada beberapa folder yaitu
     
 2. Folder Components
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c2b8b475-2a49-4512-8efc-2a0e9bada316/Untitled.png)
+    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/560b5b77-a974-49a9-8017-daec5392b854/Untitled.png)
     
     Didalam folder components, terdapat beberapa komponen seperti yang tertera pada gambar. semua komponen ini akan digunakan untuk setiap pages yang ada. 
     
 3. Folder Features
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/66399810-14cb-40f5-942d-022fe0214fad/Untitled.png)
+    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dbc7895b-49c6-44d3-bae9-1ef22f528f79/Untitled.png)
     
-    Didalam folder features terdapat dua file js. file ini digunakan untuk keperluan redux untuk membuat fungsi untuk menyimpan atau menghapus kedalam redux state tersebut. 
+    Didalam folder features terdapat satu file js. file ini digunakan untuk keperluan redux untuk membuat fungsi untuk menyimpan atau menghapus kedalam redux state tersebut. 
     
 4. Folder Images
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b4bf8dcf-c53e-412d-a621-d0a01e384ea5/Untitled.png)
+    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a7c7f210-6dcc-4533-aa27-b1f83b86bae4/Untitled.png)
     
-    Pada Folder ini terdapat beberapa gambar yang disimpan yang akan digunakan pada bagian navigasi di covid, indonesia, dan programming. 
+    Pada Folder ini terdapat beberapa gambar yang disimpan yang akan digunakan pada bagian about pages
     
 5. Folder Pages
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c7baea1a-acfd-4267-aac0-607fe28ba835/Untitled.png)
+    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ec71ad76-62ae-4de2-97ab-9de1ad815099/Untitled.png)
     
-    Pada folder ini digunakan untuk menyimpan beberapa pages, yaitu CovidPage untuk menyimpan halaman Covid, IndonesiaPage untuk menyimpan halaman indonesia, dan lainnya sesuai dengan penamaannya. Pages ini akan digunakan pada file utama yaitu pada app.js. 
-    
-6. Folder styles
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d0274903-4481-46ea-a9af-fc9824416bef/Untitled.png)
-    
-    Pada Folder ini digunakan untuk menyimpan satu file yaitu theme.js . digunakan untuk styling warna pada website ini.
+    Pada folder ini digunakan untuk menyimpan beberapa pages, yaitu CartPages untuk menampilkan cart, dan lainnya sesuai dengan penamaannya. Pages ini akan digunakan pada file utama yaitu pada app.js.
